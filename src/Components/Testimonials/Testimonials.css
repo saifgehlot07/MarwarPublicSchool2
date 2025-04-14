@@ -14,7 +14,7 @@
   width: 50px;
   border-radius: 50%;
   cursor: pointer;
-  background: #212ea0;
+  background: #012e56;
 }
 
 .back-btn {
@@ -48,19 +48,54 @@
 }
 
 .slide img {
-    width: 65px;
-    border-radius: 50%;
-    margin-right: 10px;
-    border: 4px solid #212ea0;
+  width: 65px;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 4px solid #012e56;
 }
 
 .user-info {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-    font-size: 15px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 15px;
 }
 
 .user-info h3 {
-    color: #212ea0;
+  color: #012e56;
+}
+
+@media (max-width: 800px) {
+  .testimonials {
+    padding: 0 40px;
+  }
+  .next-btn,
+  .back-btn {
+    padding: 10px;
+    width: 35px;
+  }
+  .testimonials ul li {
+    padding: 10px;
+  }
+  .slide {
+    padding: 10px;
+  }
+  .slide img {
+    width: 50px;
+    border: 3px solid #012e56;
+  }
+}
+
+@media (max-width: 600px) {
+  .user-info {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  .user-info h3 {
+    font-size: 16px;
+  }
+  .slider p{
+    font-size: 12px;
+  }
 }

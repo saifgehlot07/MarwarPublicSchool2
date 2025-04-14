@@ -13,5 +13,16 @@
 
 .gallery img {
     width: 23%;
+    height: 60vh;
     border-radius: 10px;
+}
+
+@media (max-width: 800px) {
+    .gallery {
+        flex-wrap: wrap;
+    }
+    .gallery img {
+        width: 46%;
+        margin-bottom: 25px;
+    }
 }

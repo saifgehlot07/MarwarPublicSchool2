@@ -14,12 +14,12 @@ const App = () => {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title subTitle="Our Program" title="What we offer" />
+        <Title subTitle="Our Programs" title="What we offer" />
         <Programs />
         <About />
-        <Title subTitle="Gallery" title="Campus Photos" />
+        <Title subTitle="Gallery" title="School Photos" />
         <Campus />
-        <Title subTitle="Testimonial" title="What Student Says" />
+        <Title subTitle="Testimonial" title="What Parents Says" />
         <Testimonials />
         <Title subTitle="Contact Us" title="Get in Touch" />
         <Contact />

@@ -44,15 +44,14 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user1} alt="" />
                 <div>
-                  <h3>Emily Williams</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Pooja Singh</h3>
+                  <span>MPS, Nagaur</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                My child loves coming to school every day. The teachers are kind
+                and caring. He has learned so many new words. The school is
+                always clean and safe. We are very happy with everything!
               </p>
             </div>
           </li>
@@ -61,15 +60,14 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user2} alt="" />
                 <div>
-                  <h3>Emily Williams</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Mohammed Shakil</h3>
+                  <span>MPS, Nagaur</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                This school is perfect for little kids. My daughter enjoys
+                playing and learning. She always comes home with a smile.
+                Teachers help the kids with love. I feel good sending her here.
               </p>
             </div>
           </li>
@@ -78,15 +76,14 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user3} alt="" />
                 <div>
-                  <h3>Emily Williams</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Deepika Jhakar</h3>
+                  <span>MPS, Nagaur</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                A great place for early learning! The staff is so friendly and
+                gentle. My son has become more confident. He sings, draws, and
+                talks more now. Thank you for the love and care.
               </p>
             </div>
           </li>
@@ -95,15 +92,14 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user4} alt="" />
                 <div>
-                  <h3>Emily Williams</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Amir Mohammed</h3>
+                  <span>MPS, Nagaur</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                We love this nursery school a lot. The classrooms are fun and
+                colorful. My child has made many friends here. Every day is full
+                of fun and learning. Very thankful to the lovely teachers!
               </p>
             </div>
           </li>
