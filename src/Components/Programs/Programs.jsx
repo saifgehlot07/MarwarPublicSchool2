@@ -1,8 +1,8 @@
 import React from "react";
 import "./Programs.css";
-import programImage01 from "../../images/acadmicsphoto1.jpeg";
-import programImage02 from "../../images/acadmicsphoto2.jpeg";
-import programImage03 from "../../images/acadmicsphoto3.jpeg";
+import programImage01 from "../../images/acadmicsphoto1.png";
+import programImage02 from "../../images/acadmicsphoto2.png";
+import programImage03 from "../../images/acadmicsphoto3.png";
 import programIcon01 from "../../assets/program-icon-1.png";
 import programIcon02 from "../../assets/program-icon-2.png";
 import programIcon03 from "../../assets/program-icon-3.png";
