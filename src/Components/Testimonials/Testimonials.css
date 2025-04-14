@@ -95,7 +95,29 @@
   .user-info h3 {
     font-size: 16px;
   }
-  .slider p{
+  .slider p {
     font-size: 12px;
   }
+}
+
+@media (max-width: 400px) {
+  .next-btn,
+  .back-btn {
+    display: none;
+  }
+
+  .slider ul {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .slider ul li {
+    width: 100%;
+  }
+
+  .user-info {
+    display: flex;
+    padding: 20px;
+  } 
 }

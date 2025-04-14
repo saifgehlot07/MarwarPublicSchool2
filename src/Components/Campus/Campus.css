@@ -26,3 +26,9 @@
         margin-bottom: 25px;
     }
 }
+
+@media (max-width: 400px) {
+    .gallery {
+      width: 100%;
+    } 
+  }

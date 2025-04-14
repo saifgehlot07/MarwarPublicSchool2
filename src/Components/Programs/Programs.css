@@ -18,6 +18,10 @@
   flex-basis: 31%;
 }
 
+.caption p {
+  margin-top: 5px;
+}
+
 .caption {
   border-radius: 10px;
   position: absolute;
@@ -43,16 +47,16 @@
 }
 
 .caption img {
-    width: 100px;
-    height: 110px;
+  width: 100px;
+  height: 110px;
 }
 
 @media (max-width: 650px) {
-    .programs {
-        flex-direction: column;
-    }
-    .program {
-        flex-basis: 100%;
-        margin: 20px;
-    }
+  .programs {
+    flex-direction: column;
+  }
+  .program {
+    flex-basis: 100%;
+    margin: 20px 0;
+  }
 }
